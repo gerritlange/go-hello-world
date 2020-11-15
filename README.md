@@ -14,3 +14,5 @@ multi-stage         latest              9af3c2a2bf40        23 minutes ago      
 ```
 
 😱
+
+[![Codeship Status for gerritlange/go-hello-world](https://app.codeship.com/projects/1762d507-89e0-49c7-b94a-f900c9b86889/status?branch=master)](https://app.codeship.com/projects/418336)
