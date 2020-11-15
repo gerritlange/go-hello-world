@@ -1,5 +1,6 @@
 # go-hello-world
-A simple hello-world application written in Go to illustrate multi-stage builds in Docker 17.05, and the builder pattern
+A simple hello-world application written in Go to illustrate multi-stage builds in Docker 17.05, and the builder pattern.
+This is to illustrate the functionality of Codeship Basic.
 
 `docker build -t single-stage -f Dockerfile.single .`
 
